@@ -1,0 +1,12 @@
+🔗 https://chat.openai.com/
+♪ J:\Temp\song.mp3
+🖨 Hello World!
+🗣 You are awesome!
+⚙️ calc
+🖨 3
+⏳ 1000
+🖨 2
+⏳ 1000
+🖨 1
+⏳ 1000
+🚫 100
